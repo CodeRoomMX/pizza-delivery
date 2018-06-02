@@ -18,4 +18,4 @@
 **En este reto cuenta mucho el como se ve la información reflejada(usando colores o estilos de texto) y que tan fácil es entender la lista mostrada.**
 
 ## Bonus!!!
-Si ya terminaste y deseas un bonus, agrega al comando `list` la opción `--date`(para ordenar las pizzas por fecha en orden ascendente) y el argumento `<size>`que nos permita filtrar las pizzas por tamaño.
+Si ya terminaste y deseas un bonus, agrega al comando `list` la opción `--date`(para ordenar las pizzas por fecha en orden ascendente) y la opción `--size [size]`que nos permita filtrar las pizzas por tamaño.
